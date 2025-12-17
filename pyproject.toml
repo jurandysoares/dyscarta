@@ -1,0 +1,11 @@
+[project]
+name = "dyscarta"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "python-dotenv[cli]>=1.2.1",
+    "python-markdown>=0.1.0",
+    "typer>=0.20.0",
+]
